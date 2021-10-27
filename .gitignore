@@ -1,0 +1,8 @@
+__pycache__/
+crmondj/__pycache__/
+__pycache__
+.env
+.venv
+env/
+venv/
+.idea/
